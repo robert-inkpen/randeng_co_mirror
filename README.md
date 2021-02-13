@@ -20,6 +20,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -29,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/robert-inkpen/randeng_co_mirror">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Open-source-hardware-logo.svg.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">:alien: RandEng Co Smart Mirror/Screen for the masses :alien:</h3>
