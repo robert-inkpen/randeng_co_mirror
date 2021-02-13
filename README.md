@@ -36,7 +36,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">RandEng Co Smart Mirror/Screen for the masses :Alien:</h3>
+  <h3 align="center">RandEng Co Smart Mirror/Screen for the masses :EXTRATERRESTRIAL ALIEN:</h3>
 
   <p align="center">
     :Hollow Red Circle: I don't know why it has taken this long to reach out to my network of friends to collab on a project. We have so much brain power at our disposal and a massive 
