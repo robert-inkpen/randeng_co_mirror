@@ -171,11 +171,11 @@ Project Link: [https://github.com/robert-inkpen/randeng_co_mirror](https://githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/robert-inkpen/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/robert-inkpen/randeng_co_mirror.svg?style=for-the-badge
 [contributors-url]: https://github.com/robert-inkpen/randeng_co_mirror/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/robert-inkpen/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/robert-inkpen/randeng_co_mirror.svg?style=for-the-badge
 [forks-url]: https://github.com/robert-inkpen/randeng_co_mirror/network/members
-[stars-shield]: https://img.shields.io/github/stars/robert-inkpen/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/robert-inkpen/randeng_co_mirror.svg?style=for-the-badge
 [stars-url]: https://github.com/robert-inkpen/randeng_co_mirror/stargazers
-[issues-shield]: https://img.shields.io/github/issues/robert-inkpen/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/robert-inkpen/randeng_co_mirror.svg?style=for-the-badge
 [issues-url]: https://github.com/robert-inkpen/randeng_co_mirror/issues
