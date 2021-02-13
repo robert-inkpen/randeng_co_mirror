@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/robert-inkpen/randeng_co_mirror">
-    <img src="images/Open-source-hardware-logo.svg.png" alt="Logo" width="80" height="80">
+    <img src="images/Open-source-hardware-logo.svg.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">:alien: RandEng Co Smart Mirror/Screen for the masses :alien:</h3>
