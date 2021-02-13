@@ -35,9 +35,8 @@
   <h3 align="center">:alien: RandEng Co Smart Mirror/Screen for the masses :alien:</h3>
 
   <p align="center">
-    :o: I don't know why it has taken this long to reach out to my network of friends to collab on a project. We have so much brain power at our disposal and a massive 
-    swath of abilities that cover every aspect you could ever need in product design. With data, electrical, software and aerospace engineers at our disposal we have the ability to design whatever we want. We all have had our own projects but its alot easier to stay motivated when its with a group so wether were making things just because we want them, because we maybe want to market them or just because we want to expand our abilities I think this could be a good, fun and not too serious way to kill some time in quarantine. 
-    :o: As for this project I have had conversations with a bunch of people about the logistics of this and will do my best to add everything that was discussed so were all in the loop. 
+    I don't know why it has taken this long to reach out to my network of friends to collab on a project. We have so much brain power at our disposal and a massive 
+    swath of abilities that cover every aspect you could ever need in product design. With data, electrical, software and aerospace engineers at our disposal we have the ability to design whatever we want. We all have had our own projects but its alot easier to stay motivated when its with a group so wether were making things just because we want them, because we maybe want to market them or just because we want to expand our abilities I think this could be a good, fun and not too serious way to kill some time in quarantine. As for this project I have had conversations with a bunch of people about the logistics of this and will do my best to add everything that was discussed so were all in the loop. 
     <br />
     <a href="https://github.com/robert-inkpen/randeng_co_mirror"><strong>Explore the docs »</strong></a>
     <br />
