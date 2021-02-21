@@ -1,0 +1,11 @@
+.vscode
+*.exe
+__pycache__
+*.whl
+*.egg
+node_modules
+dist
+out
+build
+*.out
+.env
